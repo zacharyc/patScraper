@@ -1,0 +1,23 @@
+{
+  "name": "patscraper",
+  "version": "1.0.0",
+  "description": "used for scraping the patagonia store website",
+  "main": "patScraper.js",
+  "dependencies": {
+    "tinyreq": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyc/patScraper.git"
+  },
+  "author": "zacharyc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zacharyc/patScraper/issues"
+  },
+  "homepage": "https://github.com/zacharyc/patScraper#readme"
+}
