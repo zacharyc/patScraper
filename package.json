@@ -4,6 +4,7 @@
   "description": "used for scraping the patagonia store website",
   "main": "patScraper.js",
   "dependencies": {
+    "jsdom": "^10.0.0",
     "tinyreq": "^3.2.2"
   },
   "devDependencies": {},
